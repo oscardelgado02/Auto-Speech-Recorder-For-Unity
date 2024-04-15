@@ -1,5 +1,5 @@
 # Auto-Speech-Recorder-For-Unity
- An easy to use tool to automatically detect and record speech in Unity
+ An easy to use tool to automatically detect and record speech in Unity.
 
 <div align="center">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Auto-Speech-Recorder-For-Unity-Preview.png" align="center" style="width: 80%" />
